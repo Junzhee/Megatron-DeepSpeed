@@ -145,3 +145,8 @@ staticfiles
 
 # tmp files
 *.swp
+
+
+/log
+/output
+/data
